@@ -1,0 +1,246 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('../../fonts/homepage/icons/icomoon.eot?yq5kbj');
+    src:    url('../../fonts/homepage/icons/icomoon.eot?yq5kbj#iefix') format('embedded-opentype'),
+        url('../../fonts/homepage/icons/icomoon.ttf?yq5kbj') format('truetype'),
+        url('../../fonts/homepage/icons/icomoon.woff?yq5kbj') format('woff'),
+        url('../../fonts/homepage/icons/icomoon.svg?yq5kbj#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-a:before {
+    content: "\e900";
+}
+.icon-arrow1:before {
+    content: "\e901";
+}
+.icon-arrow2:before {
+    content: "\e902";
+}
+.icon-arrow:before {
+    content: "\e903";
+}
+.icon-business1:before {
+    content: "\e904";
+}
+.icon-business2:before {
+    content: "\e905";
+}
+.icon-business:before {
+    content: "\e906";
+}
+.icon-cellphone1:before {
+    content: "\e907";
+}
+.icon-cellphone:before {
+    content: "\e908";
+}
+.icon-clock:before {
+    content: "\e909";
+}
+.icon-commerce1:before {
+    content: "\e90a";
+}
+.icon-commerce:before {
+    content: "\e90b";
+}
+.icon-communication:before {
+    content: "\e90c";
+}
+.icon-computer1:before {
+    content: "\e90d";
+}
+.icon-connection:before {
+    content: "\e90e";
+}
+.icon-direction:before {
+    content: "\e90f";
+}
+.icon-dish:before {
+    content: "\e910";
+}
+.icon-game1:before {
+    content: "\e911";
+}
+.icon-game:before {
+    content: "\e912";
+}
+.icon-games:before {
+    content: "\e913";
+}
+.icon-geography1:before {
+    content: "\e914";
+}
+.icon-geography2:before {
+    content: "\e915";
+}
+.icon-interface1:before {
+    content: "\e916";
+}
+.icon-internet:before {
+    content: "\e917";
+}
+.icon-letter:before {
+    content: "\e918";
+}
+.icon-love:before {
+    content: "\e919";
+}
+.icon-m:before {
+    content: "\e91a";
+}
+.icon-m2:before {
+    content: "\e91b";
+}
+.icon-magnifying-glass:before {
+    content: "\e91c";
+}
+.icon-mail:before {
+    content: "\e91d";
+}
+.icon-money1:before {
+    content: "\e91e";
+}
+.icon-money:before {
+    content: "\e91f";
+}
+.icon-msg:before {
+    content: "\e920";
+}
+.icon-msg2:before {
+    content: "\e921";
+}
+.icon-msg3:before {
+    content: "\e922";
+}
+.icon-multimedia1:before {
+    content: "\e923";
+}
+.icon-multimedia:before {
+    content: "\e924";
+}
+.icon-networking:before {
+    content: "\e925";
+}
+.icon-note1:before {
+    content: "\e926";
+}
+.icon-note:before {
+    content: "\e927";
+}
+.icon-people2:before {
+    content: "\e928";
+}
+.icon-people3:before {
+    content: "\e929";
+}
+.icon-people5:before {
+    content: "\e92a";
+}
+.icon-people6:before {
+    content: "\e92b";
+}
+.icon-people7:before {
+    content: "\e92c";
+}
+.icon-people:before {
+    content: "\e92d";
+}
+.icon-peoples:before {
+    content: "\e92e";
+}
+.icon-phone:before {
+    content: "\e92f";
+}
+.icon-picture:before {
+    content: "\e930";
+}
+.icon-search1:before {
+    content: "\e931";
+}
+.icon-search:before {
+    content: "\e932";
+}
+.icon-share:before {
+    content: "\e933";
+}
+.icon-shield1:before {
+    content: "\e934";
+}
+.icon-shield:before {
+    content: "\e935";
+}
+.icon-shopping1:before {
+    content: "\e936";
+}
+.icon-shopping:before {
+    content: "\e937";
+}
+.icon-signs:before {
+    content: "\e938";
+}
+.icon-square:before {
+    content: "\e939";
+}
+.icon-t:before {
+    content: "\e93a";
+}
+.icon-technology9:before {
+    content: "\e93b";
+}
+.icon-technology10:before {
+    content: "\e93c";
+}
+.icon-technology11:before {
+    content: "\e93d";
+}
+.icon-technology12:before {
+    content: "\e93e";
+}
+.icon-technology13:before {
+    content: "\e93f";
+}
+.icon-technology14:before {
+    content: "\e940";
+}
+.icon-technology15:before {
+    content: "\e941";
+}
+.icon-technology:before {
+    content: "\e942";
+}
+.icon-time:before {
+    content: "\e943";
+}
+.icon-tool:before {
+    content: "\e944";
+}
+.icon-v:before {
+    content: "\e945";
+}
+.icon-w:before {
+    content: "\e946";
+}
+.icon-weather:before {
+    content: "\e947";
+}
+.icon-tosee-saman-logo:before {
+    content: "\e948";
+}
+
